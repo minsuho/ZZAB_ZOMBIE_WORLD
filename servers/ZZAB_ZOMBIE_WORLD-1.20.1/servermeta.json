@@ -22,7 +22,10 @@
       "appliesTo": ["files"],
       "patterns": [
         "config/*",
-        "config/**/*"
+        "config/**/*",
+        "**/*",
+        "**/**/*",
+        "**/**/**/*"
       ]
     }
   ]

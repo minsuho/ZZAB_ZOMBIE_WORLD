@@ -8293,6 +8293,39 @@
           }
         },
         {
+          "id": "manifest.json",
+          "name": "manifest.json",
+          "type": "File",
+          "artifact": {
+            "size": 12171,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/manifest.json",
+            "MD5": "55032e8ea5fede290df3c073e807ae72",
+            "path": "manifest.json"
+          }
+        },
+        {
+          "id": "minecraftinstance.json",
+          "name": "minecraftinstance.json",
+          "type": "File",
+          "artifact": {
+            "size": 2841962,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/minecraftinstance.json",
+            "MD5": "6695f863bdef8b0ddb3fec8b71d34c22",
+            "path": "minecraftinstance.json"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10263,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/options.txt",
+            "MD5": "81207042059ffe6dffb5ba9998f463c4",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "elytra.jem",
           "name": "elytra.jem",
           "type": "File",
@@ -19279,6 +19312,567 @@
             "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/resourcepacks/tactical-shield-old/pack.png",
             "MD5": "1b3a925a67c7a26b83abf4783caad323",
             "path": "resourcepacks/tactical-shield-old/pack.png"
+          }
+        },
+        {
+          "id": "rhino.local.properties",
+          "name": "rhino.local.properties",
+          "type": "File",
+          "artifact": {
+            "size": 141,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/rhino.local.properties",
+            "MD5": "1112845c0da49c6c40c7acafae97dd9a",
+            "path": "rhino.local.properties"
+          }
+        },
+        {
+          "id": "armor_plate.zs",
+          "name": "armor_plate.zs",
+          "type": "File",
+          "artifact": {
+            "size": 173,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/armor_plate.zs",
+            "MD5": "dde137dbb4f69979b0c732bf5c81a11c",
+            "path": "scripts/armor_plate.zs"
+          }
+        },
+        {
+          "id": "batlleaxe.zs",
+          "name": "batlleaxe.zs",
+          "type": "File",
+          "artifact": {
+            "size": 347,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/batlleaxe.zs",
+            "MD5": "b0969da81e0acd72c363b844a7892829",
+            "path": "scripts/batlleaxe.zs"
+          }
+        },
+        {
+          "id": "blaze_rod.zs",
+          "name": "blaze_rod.zs",
+          "type": "File",
+          "artifact": {
+            "size": 315,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/blaze_rod.zs",
+            "MD5": "cb67bca9065bbafe44d79159d3842b7d",
+            "path": "scripts/blaze_rod.zs"
+          }
+        },
+        {
+          "id": "blue_ice.zs",
+          "name": "blue_ice.zs",
+          "type": "File",
+          "artifact": {
+            "size": 50,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/blue_ice.zs",
+            "MD5": "ecaeb3b46c345047fa047a5a75413581",
+            "path": "scripts/blue_ice.zs"
+          }
+        },
+        {
+          "id": "budding_amethyst.zs",
+          "name": "budding_amethyst.zs",
+          "type": "File",
+          "artifact": {
+            "size": 390,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/budding_amethyst.zs",
+            "MD5": "bde143411af5f333e48b5aef185487ae",
+            "path": "scripts/budding_amethyst.zs"
+          }
+        },
+        {
+          "id": "CDU.zs",
+          "name": "CDU.zs",
+          "type": "File",
+          "artifact": {
+            "size": 395,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/CDU.zs",
+            "MD5": "b6083d06caf023b8c88f2922b6580507",
+            "path": "scripts/CDU.zs"
+          }
+        },
+        {
+          "id": "chainsaw.zs",
+          "name": "chainsaw.zs",
+          "type": "File",
+          "artifact": {
+            "size": 367,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/chainsaw.zs",
+            "MD5": "4954f052405f4c685f86ceb2bb42982e",
+            "path": "scripts/chainsaw.zs"
+          }
+        },
+        {
+          "id": "cherry_ghillie_boots.zs",
+          "name": "cherry_ghillie_boots.zs",
+          "type": "File",
+          "artifact": {
+            "size": 404,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/cherry_ghillie_boots.zs",
+            "MD5": "a965543f7a3432648f8976c6dded470a",
+            "path": "scripts/cherry_ghillie_boots.zs"
+          }
+        },
+        {
+          "id": "cherry_ghillie_chestplate.zs",
+          "name": "cherry_ghillie_chestplate.zs",
+          "type": "File",
+          "artifact": {
+            "size": 424,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/cherry_ghillie_chestplate.zs",
+            "MD5": "01f357d2ed9249b6a069ade8ef3fb115",
+            "path": "scripts/cherry_ghillie_chestplate.zs"
+          }
+        },
+        {
+          "id": "cherry_ghillie_helmet.zs",
+          "name": "cherry_ghillie_helmet.zs",
+          "type": "File",
+          "artifact": {
+            "size": 408,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/cherry_ghillie_helmet.zs",
+            "MD5": "11584d6b349c45b2a3fd594a711c9ce6",
+            "path": "scripts/cherry_ghillie_helmet.zs"
+          }
+        },
+        {
+          "id": "cherry_ghillie_leggings.zs",
+          "name": "cherry_ghillie_leggings.zs",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/cherry_ghillie_leggings.zs",
+            "MD5": "60193ddfd0a3a00e9188c9da66ffdabd",
+            "path": "scripts/cherry_ghillie_leggings.zs"
+          }
+        },
+        {
+          "id": "enchanted_golden_apple.zs",
+          "name": "enchanted_golden_apple.zs",
+          "type": "File",
+          "artifact": {
+            "size": 361,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/enchanted_golden_apple.zs",
+            "MD5": "1b16c65e6b867afaa351fe5d118021ca",
+            "path": "scripts/enchanted_golden_apple.zs"
+          }
+        },
+        {
+          "id": "fire_axe.zs",
+          "name": "fire_axe.zs",
+          "type": "File",
+          "artifact": {
+            "size": 367,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/fire_axe.zs",
+            "MD5": "f9585abd77b561fcf84c3baa916674c8",
+            "path": "scripts/fire_axe.zs"
+          }
+        },
+        {
+          "id": "gas_tank.zs",
+          "name": "gas_tank.zs",
+          "type": "File",
+          "artifact": {
+            "size": 305,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/gas_tank.zs",
+            "MD5": "a33f449ba27b9b286c9dc67c4d7f7e57",
+            "path": "scripts/gas_tank.zs"
+          }
+        },
+        {
+          "id": "ghast_tear.zs",
+          "name": "ghast_tear.zs",
+          "type": "File",
+          "artifact": {
+            "size": 334,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/ghast_tear.zs",
+            "MD5": "1d47509f8bcd2e7f07636c54f2b53bf0",
+            "path": "scripts/ghast_tear.zs"
+          }
+        },
+        {
+          "id": "GPNVG_Black.zs",
+          "name": "GPNVG_Black.zs",
+          "type": "File",
+          "artifact": {
+            "size": 180,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/GPNVG_Black.zs",
+            "MD5": "20ea00de4728aae07a049b286fbe94e3",
+            "path": "scripts/GPNVG_Black.zs"
+          }
+        },
+        {
+          "id": "Ice_Canister.zs",
+          "name": "Ice_Canister.zs",
+          "type": "File",
+          "artifact": {
+            "size": 376,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/Ice_Canister.zs",
+            "MD5": "71d2d499330f7e99ade62cc8c19f4530",
+            "path": "scripts/Ice_Canister.zs"
+          }
+        },
+        {
+          "id": "injector.zs",
+          "name": "injector.zs",
+          "type": "File",
+          "artifact": {
+            "size": 409,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/injector.zs",
+            "MD5": "94cdbaaeb15af534d9585784909b33c5",
+            "path": "scripts/injector.zs"
+          }
+        },
+        {
+          "id": "machine_gun_components.zs",
+          "name": "machine_gun_components.zs",
+          "type": "File",
+          "artifact": {
+            "size": 436,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/machine_gun_components.zs",
+            "MD5": "7d5cc8fcde75ff3745e4db73cec58efc",
+            "path": "scripts/machine_gun_components.zs"
+          }
+        },
+        {
+          "id": "medical_kit.zs",
+          "name": "medical_kit.zs",
+          "type": "File",
+          "artifact": {
+            "size": 389,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/medical_kit.zs",
+            "MD5": "030f32d39a18da8fcade416d9a01f15e",
+            "path": "scripts/medical_kit.zs"
+          }
+        },
+        {
+          "id": "miracle.zs",
+          "name": "miracle.zs",
+          "type": "File",
+          "artifact": {
+            "size": 262,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/miracle.zs",
+            "MD5": "4cba1cf18d9b286851441778e5f3b930",
+            "path": "scripts/miracle.zs"
+          }
+        },
+        {
+          "id": "netherite_upgrade_smithing_template.zs",
+          "name": "netherite_upgrade_smithing_template.zs",
+          "type": "File",
+          "artifact": {
+            "size": 466,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/netherite_upgrade_smithing_template.zs",
+            "MD5": "47ecdb7ddc5e4121ed000b373e899906",
+            "path": "scripts/netherite_upgrade_smithing_template.zs"
+          }
+        },
+        {
+          "id": "night_vision_black.zs",
+          "name": "night_vision_black.zs",
+          "type": "File",
+          "artifact": {
+            "size": 359,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/night_vision_black.zs",
+            "MD5": "d47fa48dcc8981c1910bc9989eef0355",
+            "path": "scripts/night_vision_black.zs"
+          }
+        },
+        {
+          "id": "packed_ice.zs",
+          "name": "packed_ice.zs",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/packed_ice.zs",
+            "MD5": "744e49d0505e009eca9d76efd7c91592",
+            "path": "scripts/packed_ice.zs"
+          }
+        },
+        {
+          "id": "painkiller.zs",
+          "name": "painkiller.zs",
+          "type": "File",
+          "artifact": {
+            "size": 425,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/painkiller.zs",
+            "MD5": "8426be3d108417b1e6485d261dc5a7a1",
+            "path": "scripts/painkiller.zs"
+          }
+        },
+        {
+          "id": "remove_dispenser.zs",
+          "name": "remove_dispenser.zs",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/remove_dispenser.zs",
+            "MD5": "bc17326c32e8618bd060edb608d1bf9d",
+            "path": "scripts/remove_dispenser.zs"
+          }
+        },
+        {
+          "id": "remove_scaffolding.zs",
+          "name": "remove_scaffolding.zs",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/remove_scaffolding.zs",
+            "MD5": "bbb8aabbae1d828c1e762fd1cf1301ee",
+            "path": "scripts/remove_scaffolding.zs"
+          }
+        },
+        {
+          "id": "saltpeter.zs",
+          "name": "saltpeter.zs",
+          "type": "File",
+          "artifact": {
+            "size": 178,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/saltpeter.zs",
+            "MD5": "cbe8599546805af7ec966941151816a0",
+            "path": "scripts/saltpeter.zs"
+          }
+        },
+        {
+          "id": "skeleton_skull.zs",
+          "name": "skeleton_skull.zs",
+          "type": "File",
+          "artifact": {
+            "size": 301,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/skeleton_skull.zs",
+            "MD5": "405862d334a211945d6a1a4be897afba",
+            "path": "scripts/skeleton_skull.zs"
+          }
+        },
+        {
+          "id": "soul_sand.zs",
+          "name": "soul_sand.zs",
+          "type": "File",
+          "artifact": {
+            "size": 194,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/soul_sand.zs",
+            "MD5": "16e0fdefd9da16f23e8dba01f9c1e2a5",
+            "path": "scripts/soul_sand.zs"
+          }
+        },
+        {
+          "id": "soul_soil.zs",
+          "name": "soul_soil.zs",
+          "type": "File",
+          "artifact": {
+            "size": 194,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/soul_soil.zs",
+            "MD5": "f8c896f71139412dfdf4ebb554b1deaa",
+            "path": "scripts/soul_soil.zs"
+          }
+        },
+        {
+          "id": "spore_armads.zs",
+          "name": "spore_armads.zs",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_armads.zs",
+            "MD5": "6c55a060930f80af7796e17ef6e723de",
+            "path": "scripts/spore_armads.zs"
+          }
+        },
+        {
+          "id": "spore_combat_pickaxe.zs",
+          "name": "spore_combat_pickaxe.zs",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_combat_pickaxe.zs",
+            "MD5": "209df6367e4e154d3d26c60dddda38ab",
+            "path": "scripts/spore_combat_pickaxe.zs"
+          }
+        },
+        {
+          "id": "spore_combat_shovel.zs",
+          "name": "spore_combat_shovel.zs",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_combat_shovel.zs",
+            "MD5": "b2dbb97b151afec67e83e8070db729fa",
+            "path": "scripts/spore_combat_shovel.zs"
+          }
+        },
+        {
+          "id": "spore_greatsword.zs",
+          "name": "spore_greatsword.zs",
+          "type": "File",
+          "artifact": {
+            "size": 48,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_greatsword.zs",
+            "MD5": "3a12c8e3d1700eaad828a489d1e38abd",
+            "path": "scripts/spore_greatsword.zs"
+          }
+        },
+        {
+          "id": "spore_infected_bow.zs",
+          "name": "spore_infected_bow.zs",
+          "type": "File",
+          "artifact": {
+            "size": 50,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_infected_bow.zs",
+            "MD5": "7b7f4c12ba7d06cb5f43430fff60a065",
+            "path": "scripts/spore_infected_bow.zs"
+          }
+        },
+        {
+          "id": "spore_infected_crossbow.zs",
+          "name": "spore_infected_crossbow.zs",
+          "type": "File",
+          "artifact": {
+            "size": 55,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_infected_crossbow.zs",
+            "MD5": "c19d92929f4d2ee38de171e50852cded",
+            "path": "scripts/spore_infected_crossbow.zs"
+          }
+        },
+        {
+          "id": "spore_infected_spear.zs",
+          "name": "spore_infected_spear.zs",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_infected_spear.zs",
+            "MD5": "e5a1fcfd11c500b373ef9529d9f144c2",
+            "path": "scripts/spore_infected_spear.zs"
+          }
+        },
+        {
+          "id": "spore_knife.zs",
+          "name": "spore_knife.zs",
+          "type": "File",
+          "artifact": {
+            "size": 43,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_knife.zs",
+            "MD5": "6e861aae69142123c9190ff908648d26",
+            "path": "scripts/spore_knife.zs"
+          }
+        },
+        {
+          "id": "spore_mace.zs",
+          "name": "spore_mace.zs",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_mace.zs",
+            "MD5": "18cbca8670e24870240e5a29adbd6a50",
+            "path": "scripts/spore_mace.zs"
+          }
+        },
+        {
+          "id": "spore_maul.zs",
+          "name": "spore_maul.zs",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_maul.zs",
+            "MD5": "07c059ff3d87e89fc00ddda647e0cc3a",
+            "path": "scripts/spore_maul.zs"
+          }
+        },
+        {
+          "id": "spore_rapier.zs",
+          "name": "spore_rapier.zs",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_rapier.zs",
+            "MD5": "feba42ce55a1b78729590bbad2c5644c",
+            "path": "scripts/spore_rapier.zs"
+          }
+        },
+        {
+          "id": "spore_saber.zs",
+          "name": "spore_saber.zs",
+          "type": "File",
+          "artifact": {
+            "size": 43,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_saber.zs",
+            "MD5": "1530a045eef161b2126b4a5c487c752b",
+            "path": "scripts/spore_saber.zs"
+          }
+        },
+        {
+          "id": "spore_scythe.zs",
+          "name": "spore_scythe.zs",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_scythe.zs",
+            "MD5": "15024e9050f260568982eb750044a0ce",
+            "path": "scripts/spore_scythe.zs"
+          }
+        },
+        {
+          "id": "spore_sickle.zs",
+          "name": "spore_sickle.zs",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/spore_sickle.zs",
+            "MD5": "381b42edd264fc727515b6f913b8d741",
+            "path": "scripts/spore_sickle.zs"
+          }
+        },
+        {
+          "id": "TNT.zs",
+          "name": "TNT.zs",
+          "type": "File",
+          "artifact": {
+            "size": 114,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/TNT.zs",
+            "MD5": "d1d87fac12bc88ee6299f8fae95494b3",
+            "path": "scripts/TNT.zs"
+          }
+        },
+        {
+          "id": "torch1.zs",
+          "name": "torch1.zs",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/torch1.zs",
+            "MD5": "0dbb12426ae3e4a8854da02e0a092011",
+            "path": "scripts/torch1.zs"
+          }
+        },
+        {
+          "id": "torch2.zs",
+          "name": "torch2.zs",
+          "type": "File",
+          "artifact": {
+            "size": 149,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/torch2.zs",
+            "MD5": "33b831710a6250f149c85a8215aba71e",
+            "path": "scripts/torch2.zs"
+          }
+        },
+        {
+          "id": "totem_of_undying.zs",
+          "name": "totem_of_undying.zs",
+          "type": "File",
+          "artifact": {
+            "size": 337,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/totem_of_undying.zs",
+            "MD5": "1d4629a1e84ef07537d7e8221d418b49",
+            "path": "scripts/totem_of_undying.zs"
+          }
+        },
+        {
+          "id": "wither_skeleton_skull.zs",
+          "name": "wither_skeleton_skull.zs",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/scripts/wither_skeleton_skull.zs",
+            "MD5": "62243f6507be8f2b25ac9a94516afd3e",
+            "path": "scripts/wither_skeleton_skull.zs"
           }
         },
         {
@@ -59462,6 +60056,72 @@
             "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz/tacz_default_gun/README.txt",
             "MD5": "c32f530379cf50217be290e8815f74cb",
             "path": "tacz/tacz_default_gun/README.txt"
+          }
+        },
+        {
+          "id": "backup-20250305-224211-aa4422506bcc1535ffd1740e9874ce5d.zip",
+          "name": "backup-20250305-224211-aa4422506bcc1535ffd1740e9874ce5d.zip",
+          "type": "File",
+          "artifact": {
+            "size": 19382734,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/elitex_quality_guns/backup-20250305-224211-aa4422506bcc1535ffd1740e9874ce5d.zip",
+            "MD5": "aa4422506bcc1535ffd1740e9874ce5d",
+            "path": "tacz_backup/elitex_quality_guns/backup-20250305-224211-aa4422506bcc1535ffd1740e9874ce5d.zip"
+          }
+        },
+        {
+          "id": "backup-20250305-224539-dab4c060248a238235d5db77ec2925b4.zip",
+          "name": "backup-20250305-224539-dab4c060248a238235d5db77ec2925b4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 23963594,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/elitex_quality_guns/backup-20250305-224539-dab4c060248a238235d5db77ec2925b4.zip",
+            "MD5": "dab4c060248a238235d5db77ec2925b4",
+            "path": "tacz_backup/elitex_quality_guns/backup-20250305-224539-dab4c060248a238235d5db77ec2925b4.zip"
+          }
+        },
+        {
+          "id": "backup-20250305-224216-f7299bd582c498098688659ac10be038.zip",
+          "name": "backup-20250305-224216-f7299bd582c498098688659ac10be038.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1543763,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/gucci_vuitton_attachment/backup-20250305-224216-f7299bd582c498098688659ac10be038.zip",
+            "MD5": "f7299bd582c498098688659ac10be038",
+            "path": "tacz_backup/gucci_vuitton_attachment/backup-20250305-224216-f7299bd582c498098688659ac10be038.zip"
+          }
+        },
+        {
+          "id": "backup-20250305-224214-2c2ce86147d9a01938db3d3cc659b572.zip",
+          "name": "backup-20250305-224214-2c2ce86147d9a01938db3d3cc659b572.zip",
+          "type": "File",
+          "artifact": {
+            "size": 20147465,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/lradd_default_gun/backup-20250305-224214-2c2ce86147d9a01938db3d3cc659b572.zip",
+            "MD5": "2c2ce86147d9a01938db3d3cc659b572",
+            "path": "tacz_backup/lradd_default_gun/backup-20250305-224214-2c2ce86147d9a01938db3d3cc659b572.zip"
+          }
+        },
+        {
+          "id": "backup-20250305-224542-5b7a5884ad2599665b5d31ea1bfe120d.zip",
+          "name": "backup-20250305-224542-5b7a5884ad2599665b5d31ea1bfe120d.zip",
+          "type": "File",
+          "artifact": {
+            "size": 30004417,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/lradd_default_gun/backup-20250305-224542-5b7a5884ad2599665b5d31ea1bfe120d.zip",
+            "MD5": "5b7a5884ad2599665b5d31ea1bfe120d",
+            "path": "tacz_backup/lradd_default_gun/backup-20250305-224542-5b7a5884ad2599665b5d31ea1bfe120d.zip"
+          }
+        },
+        {
+          "id": "backup-20250305-224224-850dde71e1118ad2194e145ae6129d80.zip",
+          "name": "backup-20250305-224224-850dde71e1118ad2194e145ae6129d80.zip",
+          "type": "File",
+          "artifact": {
+            "size": 33948918,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/files/tacz_backup/tacz_default_gun/backup-20250305-224224-850dde71e1118ad2194e145ae6129d80.zip",
+            "MD5": "850dde71e1118ad2194e145ae6129d80",
+            "path": "tacz_backup/tacz_default_gun/backup-20250305-224224-850dde71e1118ad2194e145ae6129d80.zip"
           }
         }
       ]
