@@ -1003,16 +1003,6 @@
           }
         },
         {
-          "id": "com.github.franckyi:ibeeditor:2.2.8@jar",
-          "name": "IBE Editor",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 974923,
-            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/forgemods/required/IBEEditor-1.20-2.2.8-forge.jar.disabled",
-            "MD5": "96714fb20d51c1f1af3071727f011da1"
-          }
-        },
-        {
           "id": "com.ultrakox:idontwantportalyet:1.20-1.9@jar",
           "name": "I dont want portal yet",
           "type": "ForgeMod",
@@ -1210,16 +1200,6 @@
             "size": 227925,
             "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
-          }
-        },
-        {
-          "id": "io.github.flemmli97:mobbattle:1.20.1-2.4.12@jar",
-          "name": "Mob Battle Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 488537,
-            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/forgemods/required/mobbattle-1.20.1-2.4.12-forge.jar.disabled",
-            "MD5": "869529448f515090d5bea17c02492c71"
           }
         },
         {
