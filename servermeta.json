@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///C:/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ZZAB_ZOMBIE_WORLD (Minecraft 1.20.1)",
+    "description": "ZZAB_ZOMBIE_WORLD Running Minecraft 1.20.1 (Forge v47.3.24)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "121.145.190.195:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.24"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "config/*",
+        "config/**/*"
+      ]
+    }
+  ]
+}
