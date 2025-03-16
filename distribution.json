@@ -1353,6 +1353,16 @@
           }
         },
         {
+          "id": "net.hecknt:quicknick:1.1.2@jar",
+          "name": "QuickNick",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35519,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/forgemods/required/quicknick-1.1.2.jar",
+            "MD5": "9adbbc2db8b9c6bc713256ba433a63b5"
+          }
+        },
+        {
           "id": "agency.highlysuspect.rebindnarrator:rebind_narrator:2.0.2@jar",
           "name": "Rebind Narrator",
           "type": "ForgeMod",
