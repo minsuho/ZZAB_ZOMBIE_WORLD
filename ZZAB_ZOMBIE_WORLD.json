@@ -563,6 +563,16 @@
           }
         },
         {
+          "id": "betterdays:betterdays:1.20.1-3.1.1.1-FORGE@jar",
+          "name": "BetterDays",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513328,
+            "url": "https://raw.githubusercontent.com/minsuho/ZZAB_ZOMBIE_WORLD/main/servers/ZZAB_ZOMBIE_WORLD-1.20.1/forgemods/required/betterdays-1.20.1-3.1.1.1-FORGE.jar",
+            "MD5": "9671068d11a18a23a604a1822817fe3e"
+          }
+        },
+        {
           "id": "com.vladmarica:betterpingdisplay:1.1@jar",
           "name": "Better Ping Display",
           "type": "ForgeMod",
